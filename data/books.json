@@ -82,22 +82,22 @@
     {
         "id": "009",
         "courses_id": "05",
-        "b_name":"" ,
-        "author":"",
-        "description": "",
+        "b_name":"Open Data Structures" ,
+        "author":"Pat Morin ",
+        "description": "If you’re a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering—data structures ",
         "total_view": 980,
         "rating": { "number": 4.5},
-        "img": ""
+        "img": "https://books.google.com.bd/books/content?id=ZZCJvrDe5bIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72u--rCJFCk8oariEHrKyHpXVBqUoawj9arOdMBmCp7R1DVjck-aofJdDUwD6zlgtlE6P6zO6bibVhg4REppxvfKf_Rg_509DN_Iari1HQyYpmxhHw21p_8jaQwDrxxJ9orLatD"
     },
     {
         "id": "010",
         "courses_id": "05",
-        "b_name":"" ,
-        "author":"",
-        "description": "",
+        "b_name":"An Introduction to Data Structures and Algorithms" ,
+        "author":"John C. Cherniavsky,",
+        "description": "The Handbook of Data Structures and Applications responds to the needs of students, professionals, and researchers who need a mainstream reference on data structures by providing a comprehensive survey of data structures of various types.",
         "total_view": 980,
         "rating": { "number": 4.5},
-        "img": ""
+        "img": "https://books.google.com.bd/books/publisher/content?id=K4vfBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71CrLYcnmpUoHi_FdYN7KGBc59_0Xzd7Zn335H-PSJ5JWcPEBvmbot9UiZ73K_cskAEDNOPkv6II6iRz0R0uZ_o3nd_le5hWBrd2pAN5s40Pa9OAma78wrv0OCggCqIvh0UiciL"
     },
     {
         "id": "011",
