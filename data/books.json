@@ -102,21 +102,11 @@
     {
         "id": "011",
         "courses_id": "06",
-        "b_name":"" ,
-        "author":"",
-        "description": "",
+        "b_name":"Beginning PHP and MySQL" ,
+        "author":"Frank M. Kromann",
+        "description": "This edition of a classic best-seller includes detailed instructions for configuring the ultimate PHP 7 and MySQL development environment on all major platforms, complete coverage of the latest additions and improvements to the PHP language, and thorough introductions to MySQL’s most relied-upon features. ",
         "total_view": 980,
         "rating": { "number": 4.5},
-        "img": ""
-    },
-    {
-        "id": "012",
-        "courses_id": "06",
-        "b_name":"" ,
-        "author":"",
-        "description": "",
-        "total_view": 980,
-        "rating": { "number": 4.5},
-        "img": ""
+        "img": "https://books.google.com.bd/books/content?id=RRQhngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72FQG_quYW7rJM4Tk9kLRMaYRJCsuJQs4zQBaHX7uD6Fkz9Fq6-3DUY8U_2t_UOxrpJ5fSGu8oo1T43jz5dVrFU9xoULcnAEIkVCZOFOVDsOZIOeI30skRy5AmgPxPm78by250M"
     }
 ]
